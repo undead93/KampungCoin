@@ -13,7 +13,7 @@ packages:
 - "faketime"
 reference_datetime: "2011-01-30 00:00:00"
 remotes:
-- "url": "https://github.com/kampungcoin-project/kampungcoin.git"
+- "url": "https://github.com/undead93/KampungCoin"
   "dir": "kampungcoin"
 files:
 - "qt-win32-4.8.5-gitian-r8.zip"
