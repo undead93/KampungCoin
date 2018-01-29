@@ -1,0 +1,34 @@
+src/*.exe
+src/kampungcoin
+src/kampungcoind
+src/test_kampungcoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.kampungcoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+kampungcoin-qt
+Kampungcoin-Qt.app
+
+# Unit-tests
+Makefile.test
+kampungcoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
