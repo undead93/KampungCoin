@@ -3,7 +3,7 @@
 <plist version="0.9">
 <dict>
 	<key>CFBundleIconFile</key>
-	<string>kampungcoin.icns</string>
+	<string>funcoin.icns</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleGetInfoString</key>
@@ -15,19 +15,19 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>Kampungcoin-Qt</string>
+	<string>Funcoin-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.kampungcoin.Kampungcoin-Qt</string>
+	<string>org.funcoin.Funcoin-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>org.kampungcoin.KampungcoinPayment</string>
+            <string>org.funcoin.FuncoinPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
-              <string>kampungcoin</string>
+              <string>funcoin</string>
             </array>
           </dict>
         </array>
